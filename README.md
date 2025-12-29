@@ -73,5 +73,5 @@ Instead of removing outliers, we **converted them into new features** that refle
 ## 📂 Project Structure
 ProMaint/
 │
-├── ProMaint-1.ipynb    
+├── NoteBook.ipynb    
 ├── dataset.csv  
